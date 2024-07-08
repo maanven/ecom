@@ -1,0 +1,62 @@
+/*  banner section */
+.banner
+{
+    height:50h;
+    background-image:url('../../src/images/4069490.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.banner_ht
+{
+    height:90vh;
+}
+/* product section starts here */
+.product_box1
+{
+    height:auto; 
+    border: 1px solid black ;
+    border-radius: 20px;
+    margin-left: 60px;
+}
+.product_image
+{
+    padding-top:5vh;
+    width:300px !important;
+}
+
+.product_box2
+{
+    height:auto;
+    border: 1px solid black ;
+    margin-left: 20px !important;
+    border-radius: 20px;
+   
+}
+.color_circle
+{
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    display:inline-flex;
+    margin-left: 5px;
+}
+.view_button
+{
+    padding-left:30px !important;
+    padding-right: 30px !important;;
+    font-size: 25px !important;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+.row_padding
+{
+    padding-top:5px;
+}
+/* testimonials section starts here */
+.box_inline
+{
+    display:inline-flex;
+}
+.box_margin
+{
+    margin-left:100px;
+}

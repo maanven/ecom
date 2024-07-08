@@ -1,0 +1,46 @@
+.contact_box
+{
+    width:100%;
+    height:auto;
+    padding:50px !important;
+    box-shadow: 1px 3px 84px 6px rgba(181,181,164,0.75);
+-webkit-box-shadow: 1px 3px 84px 6px rgba(181,181,164,0.75);
+-moz-box-shadow: 1px 3px 84px 6px rgba(181,181,164,0.75);
+    border:2px solid rgb(128, 124, 124);
+    border-radius:10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.textarea_color
+{
+font-size: 15px !important;
+border:2px solid rgb(128, 124, 124) !important;
+padding:15px !important;  
+}
+.textarea_color:focus
+{
+  box-shadow: 1px 3px 23px 6px rgba(219,213,65,0.75) !important;
+-webkit-box-shadow: 1px 3px 23px 6px rgba(219,213,65,0.75) !important;
+-moz-box-shadow: 1px 3px 23px 6px rgba(219,213,65,0.75) !important;
+  
+}
+.btn1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input_font
+{
+  font-size:18px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2
+{
+  font-family: Arial, Helvetica, sans-serif; 
+}
+.address
+{
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,14 @@
+.about_banner
+{
+    height:50h;
+    background-image:url('../images/4069490.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:800px;
+}
+.text
+{
+    padding-top: 50px;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}

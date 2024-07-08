@@ -1,0 +1,69 @@
+.product_image
+{
+    width: 800px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top:40px;
+
+}
+.product_text
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top:60px;
+    margin-left:20px;
+}
+.rs_font
+{
+    font-size:30px;
+    color: rgb(211, 198, 14);
+    font-style:italic;
+}
+.fab_col
+{
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.color_circle
+{
+    height:50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: red;
+    display:inline-flex;
+    margin-left: 5px;
+}
+.s_q
+{
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.size_chart
+{
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    float:right;
+    color: rgb(136, 36, 5);
+}
+.tsize_box
+{
+    height:35px;
+    width: 100%;
+    border:1px solid rgb(32, 30, 28);
+}
+.tsize_box2
+{
+    height:35px;
+    width: 100%;
+    border:1px solid rgb(8, 8, 8);
+}
+.tsize_box4
+{
+    height:35px;
+    width: 100%;
+    margin-left: -12px;
+}
+.input_box
+{
+    padding:4px;
+    border: 2px solid black;
+}

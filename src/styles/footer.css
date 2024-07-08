@@ -1,0 +1,23 @@
+.footer_bg
+{ 
+ background-color: black;
+ margin-top: 10vh;
+ padding-top: 10vh;
+ padding-bottom: 10vh;
+ height:auto;   
+}
+
+h1
+{
+    font-style: italic;
+}
+.row_padding
+{
+    margin-top: 10vh !important;
+}
+.bottom_border
+{
+    border-bottom: 2px solid white;
+    margin-left: 150px !important;
+    margin-right: 150px !important;
+}

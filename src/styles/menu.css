@@ -1,0 +1,19 @@
+.menu_bg
+{
+    height: 10vh;
+    background-color: rgb(226, 170, 15) !important;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button_align1
+{
+    margin-left:700px;
+}
+.margin_left
+{
+ margin-left: 15px;
+ white-space: nowrap;  
+ text-decoration: none !important;
+ color: black !important;
+ font-weight: 400;
+}
